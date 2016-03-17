@@ -13,4 +13,4 @@ Tekst jeg skal skrive fordi mannen sa at jeg skulle prøve å legge til litt mer
 
 
 Men ikke fortere enn jeg gj
-sjekk ut denna `<a href=https://github.com/scriptotek/alma-slipsomat/tree/master/xsl/letters a>`
+sjekk ut denna `<a href=https://github.com/scriptotek/alma-slipsomat/tree/master/xsl/letters /a>`
